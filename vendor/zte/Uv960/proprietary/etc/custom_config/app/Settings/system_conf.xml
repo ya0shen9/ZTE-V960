@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<settings version="6">
+    
+    <system key="date_format"
+         value="dd-MM-yyyy"
+    />
+	<system key="time_12_24_hour"
+         value="24"
+    />
+	<system key="screen_off_timeout"
+         value="30000"
+    />
+	<system key="airplane_mode_toggleable_radios"
+         value=""
+    />
+</settings>
